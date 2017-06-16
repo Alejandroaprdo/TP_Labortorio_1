@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1474662426 source:c:\users\garba pc\desktop\tp_2\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474682665 source:c:\users\garba pc\desktop\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1474682206 source:c:\users\garba pc\desktop\tp_2\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474681995 c:\users\garba pc\desktop\tp_2\libreria.h
+
